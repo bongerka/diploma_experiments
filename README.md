@@ -10,7 +10,7 @@
 ## Отрисовка
 
 ```bash
-python3 ioarena/draw.py -d ioarena/new_results_new -o ioarena/plots
+python3 ioarena/draw.py -d ioarena/logs -o ioarena/plots
 ```
 
 ---
